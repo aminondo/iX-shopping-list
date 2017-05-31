@@ -7,3 +7,5 @@ lobster
 caviar
 champagne
 beer
+
+party descriptions
